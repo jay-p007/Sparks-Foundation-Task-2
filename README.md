@@ -63,7 +63,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 Clone the repository and navigate to the project directory:
 
 ```bash
-
+https://github.com/jay-p007/Sparks-Foundation-Task-2.git
 ```
 
 ## **Contributing**
